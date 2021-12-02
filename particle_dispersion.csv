@@ -1,4 +1,4 @@
-hour,long_coord,lat_coord,concentration(ppt)
+hour,long_coord,lat_coord,concentration
 1,-3.445,55.705,0.0017556
 1,-3.395,55.705,0.0204756
 1,-3.395,55.755,0.0006516
