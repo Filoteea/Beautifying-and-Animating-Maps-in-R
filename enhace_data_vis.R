@@ -37,7 +37,7 @@ str(dispersion)
    geom_point(data = dispersion,    
               aes(y = lat_coord, x = long_coord)))
 
-ggsave("basic_map.png")
+#ggsave("basic_map.png")
 
 # Create map theme function ----
 map_theme <- function(...) {
